@@ -1,6 +1,6 @@
 # greeter.py
 
-A tiny Python script that prints a friendly greeting.
+A tiny Python script that prints a friendlier greeting.
 
 Run it with:
 
@@ -8,5 +8,5 @@ Run it with:
 python greeter.py
 ```
 
-It prints a friendly greeting to the terminal.
+It prints a warm, welcoming greeting to the terminal.
 
